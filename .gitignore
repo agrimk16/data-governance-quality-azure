@@ -1,0 +1,21 @@
+# Secrets — never commit
+**/setup/variables.sh
+**/.env
+**/kaggle.json
+
+# OS / editor
+.DS_Store
+*.swp
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Databricks
+.databricks/
+
+# Build artifacts
+node_modules/
+*.egg-info/

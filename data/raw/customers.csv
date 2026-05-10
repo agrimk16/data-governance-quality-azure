@@ -1,0 +1,17 @@
+customer_id,first_name,last_name,email,phone,address,city,state,zip_code,registration_date
+CUST001,James,Wilson,jwilson@email.com,212-555-0101,123 Main St,New York,NY,10001,2023-06-15
+CUST002,Maria,Rodriguez,mrodriguez@email.com,310-555-0202,456 Oak Ave,Los Angeles,CA,90001,2023-07-22
+CUST003,David,Chen,dchen@email.com,312-555-0303,789 Pine Rd,Chicago,IL,60601,2023-08-10
+CUST004,Sarah,Johnson,sjohnson@email.com,713-555-0404,321 Elm Dr,Houston,TX,77001,2023-09-05
+CUST005,Robert,Williams,rwilliams@email.com,215-555-0505,987 Cedar St,Philadelphia,PA,19101,2023-09-20
+CUST006,Linda,Martinez,lmartinez@email.com,602-555-0606,654 Maple Ln,Phoenix,AZ,85001,2023-10-01
+CUST007,Michael,Brown,,619-555-0707,258 Walnut Rd,San Diego,CA,92101,2023-10-15
+CUST008,Jennifer,Davis,jdavis@email.com,214-555-0808,369 Spruce Dr,Dallas,TX,75201,2023-11-02
+CUST009,William,Lee,wlee@email.com,408-555-0909,741 Aspen Ln,San Jose,CA,95101,2023-11-18
+CUST010,Patricia,Garcia,pgarcia@email.com,512-555-1010,852 Hickory St,Austin,TX,78701,2023-12-01
+CUST011,Thomas,Anderson,tanderson@email,904-555-1111,963 Cypress Ave,Jacksonville,FL,32201,2023-12-15
+CUST012,Elizabeth,Taylor,etaylor@email.com,415-555-1212,174 Fir Dr,San Francisco,CA,94101,2024-01-05
+CUST013,Charles,Kim,ckim@email.com,614-555-1313,285 Juniper Ln,Columbus,OH,43201,2024-01-10
+CUST014,Dorothy,White,dwhite@email.com,817-555-1414,396 Magnolia Rd,Fort Worth,TX,76101,2024-01-12
+CUST015,Daniel,Jackson,djackson@email.com,704-555-1515,407 Sequoia St,Charlotte,NC,28201,2024-01-14
+CUST016,Karen,Nguyen,knguyen@email.com,317-555-1616,518 Sycamore Ave,Indianapolis,IN,46201,2024-01-18

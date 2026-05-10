@@ -1,0 +1,11 @@
+product_id,product_name,category,subcategory,price,weight_kg,supplier_id,created_date
+PROD001,Wireless Mouse,Electronics,Peripherals,29.99,0.15,SUP001,2023-01-10
+PROD002,Mechanical Keyboard,Electronics,Peripherals,89.99,0.95,SUP001,2023-01-15
+PROD003,USB-C Hub,Electronics,Accessories,45.50,0.20,SUP002,2023-02-01
+PROD004,Running Shoes,Sports,Footwear,125.00,0.65,SUP003,2023-02-15
+PROD005,Yoga Mat,Sports,Equipment,35.00,1.20,SUP003,2023-03-01
+PROD006,Coffee Maker,Home,Kitchen,79.99,3.50,SUP004,2023-03-15
+PROD007,Desk Lamp,Home,Office,42.50,1.80,SUP004,2023-04-01
+PROD008,Bluetooth Speaker,Electronics,Audio,65.00,0.45,SUP002,2023-04-15
+PROD009,Water Bottle,Sports,Accessories,18.99,0.30,SUP005,2023-05-01
+PROD010,Backpack,Sports,Bags,55.00,0.90,SUP005,2023-05-15

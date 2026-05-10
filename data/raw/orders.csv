@@ -1,0 +1,26 @@
+order_id,customer_id,order_date,status,total_amount,shipping_address,city,state,zip_code,payment_method
+ORD000001,CUST001,2024-01-05,delivered,125.99,123 Main St,New York,NY,10001,credit_card
+ORD000002,CUST002,2024-01-06,delivered,89.50,456 Oak Ave,Los Angeles,CA,90001,debit_card
+ORD000003,CUST003,2024-01-07,shipped,245.00,789 Pine Rd,Chicago,IL,60601,credit_card
+ORD000004,CUST001,2024-01-08,delivered,67.25,123 Main St,New York,NY,10001,paypal
+ORD000005,CUST004,2024-01-09,confirmed,312.75,321 Elm Dr,Houston,TX,77001,credit_card
+ORD000006,,2024-01-10,pending,55.00,654 Maple Ln,Phoenix,AZ,85001,credit_card
+ORD000007,CUST005,2024-01-11,delivered,198.50,987 Cedar St,Philadelphia,PA,19101,debit_card
+ORD000008,CUST006,2024-01-12,cancelled,0.00,147 Birch Ave,San Antonio,TX,78201,credit_card
+ORD000009,CUST002,2024-01-13,delivered,432.00,456 Oak Ave,Los Angeles,CA,90001,credit_card
+ORD000010,CUST007,2024-01-14,shipped,76.99,258 Walnut Rd,San Diego,CA,92101,paypal
+ORD000011,CUST008,2024-01-15,delivered,189.00,369 Spruce Dr,Dallas,TX,75201,credit_card
+ORD000012,CUST003,2024-01-15,delivered,54.75,789 Pine Rd,Chicago,IL,60601,debit_card
+ORD000013,CUST009,2024-01-16,returned,99.99,741 Aspen Ln,San Jose,CA,95101,credit_card
+ORD000014,CUST010,2024-01-17,delivered,267.50,852 Hickory St,Austin,TX,78701,paypal
+ORD000015,CUST004,2024-01-18,shipped,145.00,321 Elm Dr,Houston,TX,77001,credit_card
+ORD000016,CUST011,2024-01-19,delivered,88.25,963 Cypress Ave,Jacksonville,FL,32201,debit_card
+ORD000017,CUST005,2024-01-20,confirmed,520.00,987 Cedar St,Philadelphia,PA,19101,credit_card
+ORD000018,CUST012,2024-01-21,pending,-15.00,174 Fir Dr,San Francisco,CA,94101,credit_card
+ORD000019,CUST001,2024-01-22,delivered,175.50,123 Main St,New York,NY,10001,credit_card
+ORD000020,CUST013,2024-01-23,INVALID_STATUS,299.99,285 Juniper Ln,Columbus,OH,43201,credit_card
+ORD000021,CUST014,2024-01-24,delivered,412.00,396 Magnolia Rd,Fort Worth,TX,76101,debit_card
+ORD000022,CUST006,2024-01-25,shipped,63.50,654 Maple Ln,Phoenix,AZ,85001,paypal
+ORD000023,CUST015,2050-12-31,delivered,155.75,407 Sequoia St,Charlotte,NC,28201,credit_card
+ORD000024,CUST002,2024-01-27,delivered,88.00,456 Oak Ave,Los Angeles,CA,90001,credit_card
+ORD000025,CUST016,2024-01-28,confirmed,234.99,518 Sycamore Ave,Indianapolis,IN,46201,credit_card

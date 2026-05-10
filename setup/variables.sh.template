@@ -1,0 +1,35 @@
+#!/bin/bash
+# ============================================================
+# Variables — Data Governance & Quality Framework
+# ============================================================
+# Copy this to variables.sh and fill in your values
+
+# Resource Group
+RESOURCE_GROUP="rg-data-governance"
+LOCATION="eastus2"
+
+# Tags
+TAG_ENVIRONMENT="dev"
+TAG_PROJECT="data-governance-quality"
+
+# ADLS Gen2
+STORAGE_ACCOUNT="stgovqualityXXXXX"   # must be globally unique, lowercase, no hyphens
+
+# Databricks
+DATABRICKS_WORKSPACE="dbw-governance-quality"
+DATABRICKS_SKU="standard"              # standard for learning ($)
+
+# Azure SQL
+SQL_SERVER_NAME="sql-governance-XXXXX"  # must be globally unique
+SQL_DATABASE_NAME="governance_metadata"
+SQL_ADMIN_USER="sqladmin"
+SQL_ADMIN_PASSWORD="CHANGE_ME_Str0ng!Pass"   # Change this!
+
+# Key Vault
+KEYVAULT_NAME="kv-governance-XXXXX"    # must be globally unique
+
+# Log Analytics
+LOG_ANALYTICS_WORKSPACE="law-governance-quality"
+
+# Microsoft Purview (optional — expensive)
+# PURVIEW_ACCOUNT="purview-governance-XXXXX"
